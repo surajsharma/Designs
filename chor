@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T15:42:51.679Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4588.0 Safari/537.36" etag="0Ql9-8Cd6_aZ3ac8gVVu" version="15.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-20T15:43:54.571Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4588.0 Safari/537.36" etag="pWwfAXZlVmiEODB6zzgj" version="15.0.2" type="github" pages="4">
   <diagram id="Qr1lUpcJuq_V4Xmjea1G" name="Overview">
-    <mxGraphModel dx="1406" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P9IZlyYF9VveF_0iduxv" name="Machines">
-    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Cm6sN9IPJBUZapub1jTG-0" />
         <mxCell id="Cm6sN9IPJBUZapub1jTG-1" parent="Cm6sN9IPJBUZapub1jTG-0" />
@@ -92,7 +92,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s63R7OZWjXkWPQI4CToR" name="Atoms">
-    <mxGraphModel dx="1406" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_ycKtbrqItTrebomi3kA-0" />
         <mxCell id="_ycKtbrqItTrebomi3kA-1" parent="_ycKtbrqItTrebomi3kA-0" />
@@ -161,6 +161,9 @@
         </mxCell>
         <mxCell id="_sDCeikdktVQnamKDPWU-7" value="Cursor saturation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" vertex="1" parent="ANCWjIYUI5b2PfWi-B4U-1">
           <mxGeometry x="450" y="439" width="64" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qDJmE5ilrAnE4Ddd-W0n-0" value="Active Tab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" vertex="1" parent="ANCWjIYUI5b2PfWi-B4U-1">
+          <mxGeometry x="40" y="360" width="64" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
