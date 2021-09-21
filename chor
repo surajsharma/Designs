@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T07:01:34.827Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4588.0 Safari/537.36" etag="ktKhRdNzreptuJWfmlmA" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-21T07:19:34.656Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4588.0 Safari/537.36" etag="laQ4BowS8xijb5ZAR8dR" version="15.2.9" type="github" pages="4">
   <diagram id="Qr1lUpcJuq_V4Xmjea1G" name="Overview">
     <mxGraphModel dx="1406" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7CFPh-ark-0ZXnCwwA3p" name="Popup UI">
-    <mxGraphModel dx="2009" dy="957" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ANCWjIYUI5b2PfWi-B4U-0" />
         <mxCell id="ANCWjIYUI5b2PfWi-B4U-1" parent="ANCWjIYUI5b2PfWi-B4U-0" />
@@ -161,18 +161,6 @@
         <mxCell id="RJ6vohBZ0eTJgHnutJ5z-5" value="Window" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;fontStyle=3" parent="pnIy35AVWlh5TlFJDI3M-12" vertex="1">
           <mxGeometry x="132" y="39" width="64" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pnIy35AVWlh5TlFJDI3M-7" value="" style="group" vertex="1" connectable="0" parent="ANCWjIYUI5b2PfWi-B4U-1">
-          <mxGeometry x="780" y="710" width="450.58" height="246" as="geometry" />
-        </mxCell>
-        <mxCell id="pnIy35AVWlh5TlFJDI3M-36" value="" style="group" vertex="1" connectable="0" parent="pnIy35AVWlh5TlFJDI3M-7">
-          <mxGeometry x="47" y="0.6900000000000546" width="333.58" height="245.30999999999995" as="geometry" />
-        </mxCell>
-        <mxCell id="_sDCeikdktVQnamKDPWU-5" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;dashed=1;fontColor=#EA6B66;strokeColor=#67AB9F;fillColor=none;image=https://puu.sh/IcIr0/85b51633af.png;" parent="pnIy35AVWlh5TlFJDI3M-36" vertex="1">
-          <mxGeometry width="333.58" height="245.30999999999995" as="geometry" />
-        </mxCell>
-        <mxCell id="_sDCeikdktVQnamKDPWU-7" value="Cursor saturation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFD966;fontStyle=1" parent="pnIy35AVWlh5TlFJDI3M-36" vertex="1">
-          <mxGeometry x="95" y="95" width="64" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="FnAC-yKT-08FJUAZzUbv-13" value="" style="group" vertex="1" connectable="0" parent="ANCWjIYUI5b2PfWi-B4U-1">
           <mxGeometry x="414" y="399" width="333" height="296" as="geometry" />
         </mxCell>
@@ -190,6 +178,15 @@
         </mxCell>
         <mxCell id="RJ6vohBZ0eTJgHnutJ5z-3" value="Window" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;fontStyle=3" parent="pnIy35AVWlh5TlFJDI3M-10" vertex="1">
           <mxGeometry x="132" y="160" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pnIy35AVWlh5TlFJDI3M-36" value="" style="group;container=1;" vertex="1" connectable="0" parent="ANCWjIYUI5b2PfWi-B4U-1">
+          <mxGeometry x="827" y="398.00000000000006" width="333.58" height="245.30999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="_sDCeikdktVQnamKDPWU-5" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;dashed=1;fontColor=#EA6B66;strokeColor=#67AB9F;fillColor=none;image=https://puu.sh/IcIr0/85b51633af.png;" parent="pnIy35AVWlh5TlFJDI3M-36" vertex="1">
+          <mxGeometry width="333.58" height="245.30999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="_sDCeikdktVQnamKDPWU-7" value="Cursor saturation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFD966;fontStyle=1" parent="pnIy35AVWlh5TlFJDI3M-36" vertex="1">
+          <mxGeometry x="95" y="95" width="64" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
