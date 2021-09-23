@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T10:13:45.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4588.0 Safari/537.36" etag="awyzF0E69-26-5TS90yZ" version="15.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-23T10:21:40.606Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4588.0 Safari/537.36" etag="8ev12UV-541Ws7zIHJQq" version="15.3.0" type="github" pages="4">
   <diagram id="P9IZlyYF9VveF_0iduxv" name="FSM">
     <mxGraphModel dx="2009" dy="956" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -135,13 +135,13 @@
           <mxGeometry x="420" y="140" width="310" height="550" as="geometry" />
         </mxCell>
         <mxCell id="dEaXZi0KtgFPEEwDe-tj-4" value="&lt;b&gt;WINDOW/GROUP&lt;br&gt;&lt;/b&gt;&lt;br&gt;alwaysOnTop: false&lt;br&gt;focused: true&lt;br&gt;height: 900&lt;br&gt;id: 86&lt;br&gt;&lt;b&gt;incognito: false&lt;br&gt;&lt;/b&gt;left: 478&lt;br&gt;state: &quot;normal&quot;&lt;br&gt;&lt;b&gt;tabs: (3) [{…}, {…}, {…}]&lt;br&gt;&lt;/b&gt;top: 0&lt;br&gt;type: &quot;normal&quot;&lt;br&gt;&lt;br&gt;&lt;i style=&quot;font-weight: bold&quot;&gt;index for dnd/cycle&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;i style=&quot;font-weight: bold&quot;&gt;ref for intersection observer etc&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;i style=&quot;font-weight: bold&quot;&gt;macro&amp;nbsp;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;i style=&quot;font-weight: bold&quot;&gt;active tab index&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;groupName&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;groupID&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="_ycKtbrqItTrebomi3kA-1" vertex="1">
-          <mxGeometry x="420" y="855" width="210" height="485" as="geometry" />
+          <mxGeometry x="1185" y="126" width="210" height="485" as="geometry" />
         </mxCell>
         <mxCell id="R__aYnGOu5mFxBC--Kg9-0" value="&lt;b&gt;SESSION&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;i&gt;id&lt;br&gt;&lt;/i&gt;windowsIds: []&lt;br&gt;&lt;br&gt;" style="text;whiteSpace=wrap;html=1;" parent="_ycKtbrqItTrebomi3kA-1" vertex="1">
-          <mxGeometry x="660" y="855" width="150" height="390" as="geometry" />
+          <mxGeometry x="1425" y="126" width="150" height="390" as="geometry" />
         </mxCell>
         <mxCell id="0In_0hmp2DZgnRBmKjQg-0" value="" style="group;aspect=fixed;" parent="_ycKtbrqItTrebomi3kA-1" vertex="1" connectable="0">
-          <mxGeometry x="60" y="860" width="285.1726618705036" height="253.49" as="geometry" />
+          <mxGeometry x="825" y="131" width="285.1726618705036" height="253.49" as="geometry" />
         </mxCell>
         <mxCell id="0In_0hmp2DZgnRBmKjQg-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;dashed=1;fontColor=#EA6B66;strokeColor=#67AB9F;fillColor=none;image=https://puu.sh/IcIfj/79a8749a22.png;" parent="0In_0hmp2DZgnRBmKjQg-0" vertex="1">
           <mxGeometry y="0.8563851351351351" width="285.1726618705036" height="253.48681055155876" as="geometry" />
