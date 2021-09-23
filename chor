@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T08:23:40.317Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4588.0 Safari/537.36" etag="BkNAKA2nTeVpWJEpWjoE" version="15.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-23T08:26:41.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4588.0 Safari/537.36" etag="avRe7z54GHghFtM4v_W9" version="15.3.0" type="github" pages="5">
   <diagram id="Qr1lUpcJuq_V4Xmjea1G" name="Overview">
     <mxGraphModel dx="1406" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f39T6j69GCplhm74tUIo-1" value="" style="group;opacity=40;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="576" y="50" width="230" height="424.11" as="geometry" />
+          <mxGeometry x="576" y="50" width="356" height="424.11" as="geometry" />
         </mxCell>
         <mxCell id="SPckNZ91_iexC5t3WLzw-3" value="POPUP UI" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://puu.sh/IaA0q/6be0676bc6.png;comic=0;" parent="f39T6j69GCplhm74tUIo-1" vertex="1">
           <mxGeometry y="-20" width="230" height="424.11" as="geometry" />
@@ -89,7 +89,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="P9IZlyYF9VveF_0iduxv" name="Machines">
+  <diagram id="P9IZlyYF9VveF_0iduxv" name="FSM">
     <mxGraphModel dx="1406" dy="669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="Cm6sN9IPJBUZapub1jTG-0" />
@@ -131,7 +131,7 @@
           <mxGeometry x="10" y="49" width="53" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0nQPSTKtMPZGpqHGc2Dk-0" value="actions" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.udf_function;fillColor=#0078D7;" vertex="1" parent="Cm6sN9IPJBUZapub1jTG-1">
-          <mxGeometry x="316" y="54.00000000000001" width="47" height="50" as="geometry" />
+          <mxGeometry x="319" y="54.00000000000001" width="47" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
