@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T12:54:41.705Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="rYVM14r8ftyZHPQ2Iwu5" version="15.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-09T13:02:28.185Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="YCx3CFYdUEvULs5I3MAo" version="15.5.0" type="github" pages="4">
   <diagram id="P9IZlyYF9VveF_0iduxv" name="FSM">
     <mxGraphModel dx="1646" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -73,8 +73,7 @@
             <mxPoint x="368.24" y="456.54081408140814" as="sourcePoint" />
             <mxPoint x="559" y="438" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="437" y="457" />
-              <mxPoint x="437" y="458" />
+              <mxPoint x="368" y="458" />
               <mxPoint x="559" y="458" />
             </Array>
           </mxGeometry>
