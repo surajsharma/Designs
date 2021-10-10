@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-10T14:53:36.230Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="-eP8r0bHvabICA45bpoR" version="15.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-10T14:55:41.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="0X0Z1d1EJyTcA4QTpq2-" version="15.5.0" type="github" pages="4">
   <diagram id="P9IZlyYF9VveF_0iduxv" name="FSM">
     <mxGraphModel dx="1646" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DJBc0STbm1r68SIWolOj-0" value="ATOMS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="Cm6sN9IPJBUZapub1jTG-1" vertex="1">
+        <mxCell id="DJBc0STbm1r68SIWolOj-0" value="ATOMS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;gradientColor=#ffffff;" parent="Cm6sN9IPJBUZapub1jTG-1" vertex="1">
           <mxGeometry x="117.14498553222927" y="522.0762265662822" width="77.57249276611464" height="112.62040298482547" as="geometry" />
         </mxCell>
         <mxCell id="G82DKWEnrDuqY1RkItGn-2" value="" style="group" parent="Cm6sN9IPJBUZapub1jTG-1" vertex="1" connectable="0">
